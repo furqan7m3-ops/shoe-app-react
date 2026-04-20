@@ -12,7 +12,7 @@ This project implements the following concepts in react:
 - Context API (For providing the states to all other components avoiding prop drilling)
 
 
-##Screenshot
+## Screenshot
 ![Shoe App UI](./ui.jpeg)
 ## Tools Used
 - React
