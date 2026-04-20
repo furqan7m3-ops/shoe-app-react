@@ -1,0 +1,5 @@
+.dashboard{
+    display: grid;
+    grid-template-columns: 0.7fr 3.3fr;
+    transition: 100ms ease;
+}

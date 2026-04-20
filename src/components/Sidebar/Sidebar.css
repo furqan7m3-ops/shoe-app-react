@@ -1,0 +1,53 @@
+.sidebar{
+    position: sticky;
+    top: 0;
+    border-right: 1px solid rgb(108 108 108 / 0.29);
+    align-self: start;
+}
+
+.sidebar-logo{
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+    font-size: 1.7rem;
+    margin-left: 1rem;
+    margin-top: 1.5rem;
+}
+
+.sidebar-logo-title{
+    font-size: 1.7rem;
+}
+
+
+.sidebar-logo button{
+    background: transparent;
+    border: 0;
+}
+
+
+.product-categories-filter{
+    padding: 1rem;
+    display: grid;
+}
+
+.category-filter-title{
+    font-size: 1rem;
+    margin-bottom: 0.55rem;
+    display: flex;
+    gap: 0.3rem;
+    align-items: center;
+}
+.options{
+    display: grid;
+    gap: 0.2rem;
+}
+
+.options label{
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+}
+
+.sidebar-content{
+    margin-left: 1rem;
+}

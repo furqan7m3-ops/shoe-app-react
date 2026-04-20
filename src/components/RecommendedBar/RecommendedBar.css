@@ -1,0 +1,32 @@
+.recommended-bar {
+    padding: 1rem;
+}
+
+.rec-title{
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.rec-btns{
+    display: flex;
+    gap: 1rem;
+    margin-left: 1rem;
+}
+
+.rec-btns button{
+    border: 1px solid rgba(0,0,0,0.2);
+    padding: 0.556rem;
+    background: white;
+    border-radius: 2px;
+    color: #494949;
+    cursor: pointer;
+    transition: border, transform 100ms ease;
+}
+
+.rec-btns button:hover{
+    border: 1px solid rgba(0,0,0,1);
+}
+
+.rec-btns button:active{
+    transform: scale(0.85);
+}
