@@ -13,7 +13,7 @@ This project implements the following concepts in react:
 
 
 ##Screenshot
-![Shoe App UI(./ui.jpeg)
+![Shoe App UI](./ui.jpeg)
 ## Tools Used
 - React
 - Vanilla CSS
